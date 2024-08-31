@@ -42,7 +42,7 @@ a {
     left: 0;
     height: 100%;
     width: 0%;
-    background-color: var(--color-green);
+    background-color: #184020;
 }
 
 #loading-text {
@@ -54,7 +54,7 @@ a {
 
 
 :root {
-    --color-green: #e20e0e;
+    --color-green: #184020;
     --color-black: #202020;
     --color-white: #fafafa;
 }
@@ -116,13 +116,13 @@ a {
 
 .name-user h1 {
     font-size: 1.2rem;
-    color: var(--color-white);
+    color: #184020;
     padding-bottom: 0.2rem;
     font-weight: bold;
 }
 
 .name-user span {
-    color: #ff0000b4;
+    color: white;
     font-size: 0.8rem;
 }
 
@@ -280,7 +280,7 @@ a {
     background-size: 140%;
     background-repeat: no-repeat;
     border-radius: 10px;
-    border: 2px solid white;
+    border: 2px solid #184020;
 }
 
 .img-tread img {
@@ -368,7 +368,7 @@ a.box-social.linkedin {
 .meu-site h1 {
     font-weight: bold;
     font-size: 1.2rem;
-    color: var(--color-black);
+    color: white;
 }
 
 /****************** WIDGET 5 */
