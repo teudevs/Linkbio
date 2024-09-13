@@ -228,7 +228,12 @@ a {
 .skills-icons .fa-wordpress:hover {
     color: #21759b;
 }
-
+.skills-icons .fa-network-wired:hover {
+    color: #339933;
+}
+.skills-icons .fa-c:hover {
+    color: #ffd000;
+}
 /****************** WIDGET 3 */
 .widget3 {
     height: 100%;
